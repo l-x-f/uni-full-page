@@ -2,6 +2,15 @@
   "name": "uni-full-page",
   "version": "0.1.0",
   "private": true,
+  "description": "uni-app full-page components",
+  "keywords": [
+    "fullPage",
+    "full-page",
+    "uni-app",
+    "vue",
+    "h35",
+    "微信小程序"
+  ],
   "scripts": {
     "serve": "npm run dev:h5",
     "build": "npm run build:h5",
